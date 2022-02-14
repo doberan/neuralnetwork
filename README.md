@@ -6,7 +6,7 @@
 
 ## チャプター
 
-- [ ] Pythonでやってみよう
+- [x] Pythonでやってみよう
   - [x] Python
   - [x] インタラクティブなPython=IPython
   - [x] とてもやさしいPython入門
